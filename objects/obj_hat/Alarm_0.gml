@@ -2,7 +2,7 @@
 // You can write your code in this editor
 var wavy = 2;
 
-if (falling) {
+if (falling == 1 && !worn) {
 	if (hsp == 0) {
 		hsp = wavy * choose(-1, 1);
 	}

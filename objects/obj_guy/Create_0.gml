@@ -8,6 +8,8 @@ enum fTypes {
 	slideLeft
 }
 
+hats = array_create(0);
+hat_count = 0;
 vsp = 0;
 hsp = 0;
 fall = fTypes.standing;

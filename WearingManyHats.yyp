@@ -143,11 +143,27 @@
             }
         },
         {
+            "Key": "426f2911-842d-42c5-9fe3-adfb3afa0802",
+            "Value": {
+                "id": "f4727afa-fa9d-4f50-b0e7-9d05c61756b9",
+                "resourcePath": "objects\\obj_wornhat\\obj_wornhat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48dbc858-3eb9-4729-9e00-fb6702e0ccf3",
             "Value": {
                 "id": "fb31d1e5-db61-4df3-9d73-d8da068cddee",
                 "resourcePath": "sprites\\spr_hat\\spr_hat.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4f3fc450-f930-460b-9b51-e09bdaf235ff",
+            "Value": {
+                "id": "e7effce3-5b1e-4ad8-b6e8-b0f10faacdab",
+                "resourcePath": "scripts\\put_on_hat\\put_on_hat.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -252,6 +268,14 @@
                 "id": "f24c24f5-1b1b-4143-9073-326aadb0c251",
                 "resourcePath": "views\\f0437cb2-a9e1-435e-b345-f238bca94ff6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1f64b73-e4da-4f5c-b044-4f7f6d81cda0",
+            "Value": {
+                "id": "3e9b22ce-f0bc-41a9-bf2b-ef2fdc2c9036",
+                "resourcePath": "sprites\\spr_empty\\spr_empty.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
